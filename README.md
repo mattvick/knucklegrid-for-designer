@@ -23,4 +23,4 @@ Use the supplied designs as reference and adjust tailwind styling of the compone
 - Create both a dark and a light theme
 - Create styling for all breakpoints (a responsive layout)
 
-Create a Pull Request (PR) on GitHub with your changes
+Create a Pull Request (PR) in this GitHub repository with your changes
