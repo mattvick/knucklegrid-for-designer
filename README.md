@@ -2,7 +2,7 @@
 
 ## Notes for the designer
 
-A mockup of the Knuckle Grid game is supplied. This project is built using [Next.js](https://nextjs.org/) with [React](https://react.dev/) components using [Tailwind CSS](https://tailwindcss.com) styling. This is a functioning mockup with clickable elements.
+A mockup of the Knuckle Grid game is supplied. This project is built using [Next.js](https://nextjs.org/) with [React](https://react.dev/) components using [Tailwind CSS](https://tailwindcss.com) styling.
 
 To run the app do the following:
 
@@ -12,6 +12,8 @@ To run the app do the following:
 1. `npm run dev`
 
 #### Interactivity
+
+This is a functioning mockup with clickable elements.
 
 - Click the header menu items to reveal modals
 - Click the grid squares to reveal a search modal
