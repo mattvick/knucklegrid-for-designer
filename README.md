@@ -2,7 +2,7 @@
 
 ## Notes for the designer
 
-A mockup of the app is supplied with React components using [Tailwind CSS](https://tailwindcss.com) styling. This is a functioning mockup with clickable elements.
+A mockup of the Knuckle Grid game is supplied. This project is built using [Next.js](https://nextjs.org/) with [React](https://react.dev/) components using [Tailwind CSS](https://tailwindcss.com) styling. This is a functioning mockup with clickable elements.
 
 To run the app do the following:
 
