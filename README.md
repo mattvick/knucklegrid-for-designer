@@ -19,10 +19,8 @@ The fully functioning game can be interacted with at https://knucklegrid.vercel.
 
 Use the supplied designs as reference and adjust tailwind styling of the components to match the designs.
 
-Add styling for the following:
+- Use only Tailwind
+- Create both a dark and a light theme
+- Create styling for all breakpoints (a responsive layout)
 
-- Dark theme
-- Light theme
-- Responsive design (styling for all breakpoints)
-
-Greate a PR on GitHub with your changes
+Create a Pull Request (PR) on GitHub with your changes
