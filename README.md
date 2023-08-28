@@ -13,6 +13,8 @@ The list items in the search modal represent the 3 states of search results, whi
 - A used guess
 - An incorrect guess
 
+The fully functioning game can be interacted with at https://knucklegrid.vercel.app/. Use an incognito window to reset your guesses.
+
 ### Requirements
 
 Use the supplied designs as reference and adjust tailwind styling of the components to match the designs.
