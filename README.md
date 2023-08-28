@@ -4,7 +4,7 @@
 
 A mockup of the Knuckle Grid game is supplied. This project is built using [Next.js](https://nextjs.org/) with [React](https://react.dev/) components using [Tailwind CSS](https://tailwindcss.com) styling.
 
-To run the app do the following:
+To run the project do the following:
 
 1. Clone this repository `git clone https://github.com/mattvick/knucklegrid-for-designer.git`
 1. `cd knucklegrid-for-designer`
@@ -28,7 +28,7 @@ The fully functioning game can be interacted with at https://knucklegrid.vercel.
 
 ### Requirements
 
-Use the supplied designs as reference and adjust [Tailwind CSS](https://tailwindcss.com) styling of the components to match the designs.
+Use the supplied designs as reference and adjust the [Tailwind CSS](https://tailwindcss.com) styling of the components to match the designs.
 
 - Use only [Tailwind CSS](https://tailwindcss.com)
 - Create both a dark and a light theme
